@@ -1,4 +1,4 @@
-### Chat with friends 💬🙌
+### Chat with friends 💬 🙌
 
 Just pull chat.md, write your message, try to pull/push, solve conflicts, and wait for an answer.
 
